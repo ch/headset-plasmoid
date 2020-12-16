@@ -151,6 +151,6 @@ Item {
     }
 
     Plasmoid.toolTipSubText: {
-        "Headset Configuration"
+        "Headset Configuration" + batteryPercent
     }
 }
